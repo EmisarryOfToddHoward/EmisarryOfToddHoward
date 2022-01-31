@@ -23,15 +23,15 @@ Skyrim,Destiny 1 and 2,Rust,Minecraft,Terraria<br>
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
   <a href="https://github.com/StonksSelected?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/JustAnother-Programmer&query=$.public_repos&style=for-the-badge&label=Public Repos&color=fa7970&labelColor=363e53"/>
+    <img src="https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/StonksSelected&query=$.public_repos&style=for-the-badge&label=Public Repos&color=fa7970&labelColor=363e53"/>
   </a> 
   <a href="https://github.com/StonksSelected?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/github/stars/JustAnother-Programmer?label=TOTAL STARS&style=for-the-badge&color=faa356&labelColor=363e53"/>
+    <img src="https://img.shields.io/github/stars/StonksSelected?label=TOTAL STARS&style=for-the-badge&color=faa356&labelColor=363e53"/>
   </a>
   <a href="https://github.com/StonksSelected?tab=followers">
-    <img src="https://img.shields.io/github/followers/JustAnother-Programmer?style=for-the-badge&color=7ce38b&labelColor=363e53"/>
+    <img src="https://img.shields.io/github/followers/StonksSelected?style=for-the-badge&color=7ce38b&labelColor=363e53"/>
   </a>
-    <img src="https://img.shields.io/badge/dynamic/json.svg?url=https://api.countapi.xyz/hit/JustAnother-Programmer&query=$.value&style=for-the-badge&label=Visitors&cacheSeconds=0&color=a2d2fb&labelColor=363e53"/>
+    <img src="https://img.shields.io/badge/dynamic/json.svg?url=https://api.countapi.xyz/hit/StonksSelected&query=$.value&style=for-the-badge&label=Visitors&cacheSeconds=0&color=a2d2fb&labelColor=363e53"/>
 </p>
 
 ## Github Stats
@@ -39,7 +39,7 @@ Skyrim,Destiny 1 and 2,Rust,Minecraft,Terraria<br>
 
 <!-- Streak Stats - git.io/streak-stats -->
 <p align="center">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=JustAnother-Programmer&theme=tokyonight&hide_border=true" />
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=StonksSelected&theme=tokyonight&hide_border=true" />
 </p>
 
 ## :octocat: Github stats
@@ -47,5 +47,5 @@ Skyrim,Destiny 1 and 2,Rust,Minecraft,Terraria<br>
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=StonksSelected&theme=tokyonight&show_icons=true" />
   
-  <img height="200" style="margin-left: 3%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustAnother-Programmer&theme=tokyonight" />
+  <img height="200" style="margin-left: 3%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StonksSelected&theme=tokyonight" />
 </p>
