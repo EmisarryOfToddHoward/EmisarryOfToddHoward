@@ -6,7 +6,7 @@ You can find some of our works using this [link](https://overfluxstudios.itch.io
 If you wish to speak to the team you can do so on our [discord](https://discord.gg/t8zSEcemTY)<br>
 ## Interests<br>
 I enjoy video games both the development of them and playing them aswell as modding<br>
-Certain game times I enjoy a lot<br>
+Certain game types I enjoy<br>
 Shooters,RPGs,MMORPGs,Story games,Survival games,Multiplayer games<br>
 Some of my favourite games are<br>
 Skyrim,Destiny 1 and 2,Rust,Minecraft,Terraria<br>
