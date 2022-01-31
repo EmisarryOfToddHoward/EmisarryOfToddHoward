@@ -45,7 +45,7 @@ Skyrim,Destiny 1 and 2,Rust,Minecraft,Terraria<br>
 ## :octocat: Github stats
 <br />
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=JustAnother-Programmer&theme=tokyonight&show_icons=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=StonksSelected&theme=tokyonight&show_icons=true" />
   
   <img height="200" style="margin-left: 3%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustAnother-Programmer&theme=tokyonight" />
 </p>
