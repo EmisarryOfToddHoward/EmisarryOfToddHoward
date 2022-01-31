@@ -46,6 +46,4 @@ Skyrim,Destiny 1 and 2,Rust,Minecraft,Terraria<br>
 <br />
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=StonksSelected&theme=tokyonight&show_icons=true" />
-  
-  <img height="200" style="margin-left: 3%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StonksSelected&theme=tokyonight" />
 </p>
