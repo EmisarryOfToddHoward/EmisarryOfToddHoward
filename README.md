@@ -8,7 +8,7 @@
 > Hi I am Billy<br>
 I am a self taught/learning programmer i write programs occasionally, I am from the UK<br>
 ## Affiliation<br>
-I am a proud member of the [**OverFlux Studios**](https://github.com/Overflux-Studios) Development team<br>
+I am a proud member of the [**``OverFlux Studios``**](https://github.com/Overflux-Studios) Development team<br>
 You can find some of our works using this [link](https://overfluxstudios.itch.io) and some are openly published on GitHub<br>
 If you wish to speak to the team you can do so on our [discord](https://discord.gg/t8zSEcemTY)<br>
 ## Interests<br>
