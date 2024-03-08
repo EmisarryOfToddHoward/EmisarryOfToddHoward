@@ -23,7 +23,7 @@ Skyrim,Destiny 1 and 2,Rust,Minecraft,Terraria<br>
 <!-- Star counter - https://github.com/idealclover/GitHub-Star-Counter -->
 <p align="center">
   <a href="https://github.com/EmisarryOfToddHoward?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/EmisarryOfToddHoward&query=$.public_repos&style=for-the-badge&label=Public Repos&color=fa7970&labelColor=363e53"/>
+    <img src="https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/EmissaryOfToddHoward&query=$.public_repos&style=for-the-badge&label=Public Repos&color=fa7970&labelColor=363e53"/>
   </a> 
   <a href="https://github.com/EmisarryOfToddHoward?tab=repositories&sort=stargazers">
     <img src="https://img.shields.io/github/stars/EmissaryOfToddHoward?label=TOTAL STARS&style=for-the-badge&color=faa356&labelColor=363e53"/>
